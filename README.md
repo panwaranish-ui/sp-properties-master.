@@ -1,1 +1,0 @@
-# sp-properties-master.
