@@ -1,0 +1,3 @@
+{
+  "expo":{"name":"SP Properties Master","slug":"sp-properties-master","version":"3.0.0","orientation":"portrait","userInterfaceStyle":"light","android":{"package":"com.spproperties.master","permissions":["READ_MEDIA_IMAGES","POST_NOTIFICATIONS"]}}
+}
